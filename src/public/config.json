@@ -2,8 +2,8 @@
   "dataApiHostName": "danlep0131.data.eastus.azure-apicenter.ms",
   "title": "Contoso API portal",
   "authentication": {
-      "clientId": "e4c05a55-5187-4788-b248-c73f71f8b6d7",
-      "tenantId": "8390c86f-f232-4e60-9122-d5f42fda7481",
+      "clientId": "b3b1b3b1-3b1b-3b1b-b3b1-b3b1b3b1b3b",
+      "tenantId": "b3b1b3b1-3b1b-3b1b-b3b1-b3b1b3b1b3b",
       "scopes": ["https://azure-apicenter.net/user_impersonation"],
       "authority": "https://login.microsoftonline.com/"
   }
