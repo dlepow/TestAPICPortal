@@ -1,0 +1,10 @@
+{
+  "dataApiHostName": "danlep0429.data.eastus.azure-apicenter.ms",
+  "title": "Danlep0430",
+  "authentication": {
+      "clientId": "61a5df11-4463-4d12-b00e-25f32440eab9",
+      "tenantId": "8390c86f-f232-4e60-9122-d5f42fda7481",
+      "scopes": ["https://azure-apicenter.net/user_impersonation"],
+      "authority": "https://login.microsoftonline.com/"
+  }
+}
